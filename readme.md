@@ -59,7 +59,3 @@ To use the model for inference, run the script `inference.py`.
   ```
 - The script outputs have the format: 
 `[character ASCII index in decimal format], [POSIX path to image sample]`.
-
-## Author
-Olha Vishnievska
-olgacherry03@gmail.com
